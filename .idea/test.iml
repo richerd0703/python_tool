@@ -5,7 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/file" />
       <excludeFolder url="file://$MODULE_DIR$/res" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (pytorch)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Poetry (python_tool) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
