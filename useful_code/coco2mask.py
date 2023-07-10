@@ -18,9 +18,7 @@ import os
 from tqdm import tqdm
 import json
 
-
 # json文件的地址 需要手动设置
-
 
 def single_obg(json_file, save_path):
     # person_keypoints_val2017.json  # Object Keypoint 类型的标注格式
